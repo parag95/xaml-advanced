@@ -6,6 +6,15 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
+  
+    <Page.Resources>
+        <ControlTemplate x:Key="RoundButtonTemplate" TargetType="Button">
+            <Border CornerRadius="20"  Background="#FF333333"  >
+                <ContentPresenter  Foreground="{Binding Foreground}" ></ContentPresenter>
+            </Border>
+        </ControlTemplate>
+     </Page.Resources>
+
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <Grid.RowDefinitions>
             <RowDefinition Height="0.40*" />
@@ -16,10 +25,11 @@
             <ColumnDefinition Width="0.50*" />
             <ColumnDefinition Width="0.50*" />
         </Grid.ColumnDefinitions>
-        <TextBlock Text="Restaurant Manager" FontSize="40" HorizontalAlignment="Center" VerticalAlignment="Bottom" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" />
-        <TextBlock Text="Internal Test Version" FontSize="24" HorizontalAlignment="Center" VerticalAlignment="Bottom" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" />
-        <Button x:ConnectionId='1' Content="Go to Orders View" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2" Grid.Column="0"                            />
-        <Button x:ConnectionId='2' Content="Submit Order" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2" Grid.Column="1"                         />
+        <TextBlock Style="{StaticResource HeaderTextBlockStyle}" Text="Restaurant Manager"  HorizontalAlignment="Center" VerticalAlignment="Bottom" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" />
+        <TextBlock Style="{StaticResource SubheaderTextBlockStyle}" Text="Internal Test Version" HorizontalAlignment="Center" VerticalAlignment="Bottom" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" />
+        <Button x:ConnectionId='1' Template="{StaticResource RoundButtonTemplate}"  Content="Go to Orders View" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2" Grid.Column="0"                             />
+
+        <Button x:ConnectionId='2' Template="{StaticResource RoundButtonTemplate}"  Content="Submit Order" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2" Grid.Column="1"                         />
     </Grid>
-</Page>
+    </Page>
 

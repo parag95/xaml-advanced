@@ -1,2 +1,2 @@
-C:\Users\Parag\Documents\Visual Studio 2015\Projects\hwstart\RestaurantManager.Models\RestaurantManager.Models.csproj;neutral
-C:\Users\Parag\Documents\Visual Studio 2015\Projects\hwstart\RestaurantManager.UniversalWindows\RestaurantManager.UniversalWindows.csproj;x86
+C:\Users\Parag\Documents\GitHub\xaml-advanced\RestaurantManager.Models\RestaurantManager.Models.csproj;neutral
+C:\Users\Parag\Documents\GitHub\xaml-advanced\RestaurantManager.UniversalWindows\RestaurantManager.UniversalWindows.csproj;x86

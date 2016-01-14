@@ -32,3 +32,20 @@ C:\Users\Parag\Documents\Visual Studio 2015\Projects\hwstart\RestaurantManager.M
 C:\Users\Parag\Documents\Visual Studio 2015\Projects\hwstart\RestaurantManager.Models\obj\Debug\qualifiers.txt
 C:\Users\Parag\Documents\Visual Studio 2015\Projects\hwstart\RestaurantManager.Models\obj\Debug\qualifiers.txt.intermediate
 C:\Users\Parag\Documents\Visual Studio 2015\Projects\hwstart\RestaurantManager.Models\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Parag\Documents\GitHub\xaml-advanced\RestaurantManager.Models\bin\Debug\RestaurantManager.Models.dll
+C:\Users\Parag\Documents\GitHub\xaml-advanced\RestaurantManager.Models\bin\Debug\RestaurantManager.Models.pdb
+C:\Users\Parag\Documents\GitHub\xaml-advanced\RestaurantManager.Models\bin\Debug\RestaurantManager.Models.pri
+C:\Users\Parag\Documents\GitHub\xaml-advanced\RestaurantManager.Models\obj\Debug\RestaurantManager.Models.csprojResolveAssemblyReference.cache
+C:\Users\Parag\Documents\GitHub\xaml-advanced\RestaurantManager.Models\obj\Debug\RestaurantManager.Models.dll
+C:\Users\Parag\Documents\GitHub\xaml-advanced\RestaurantManager.Models\obj\Debug\RestaurantManager.Models.pdb
+C:\Users\Parag\Documents\GitHub\xaml-advanced\RestaurantManager.Models\obj\Debug\priconfig.xml
+C:\Users\Parag\Documents\GitHub\xaml-advanced\RestaurantManager.Models\obj\Debug\priconfig.xml.intermediate
+C:\Users\Parag\Documents\GitHub\xaml-advanced\RestaurantManager.Models\obj\Debug\layout.resfiles
+C:\Users\Parag\Documents\GitHub\xaml-advanced\RestaurantManager.Models\obj\Debug\layout.resfiles.intermediate
+C:\Users\Parag\Documents\GitHub\xaml-advanced\RestaurantManager.Models\obj\Debug\resources.resfiles
+C:\Users\Parag\Documents\GitHub\xaml-advanced\RestaurantManager.Models\obj\Debug\resources.resfiles.intermediate
+C:\Users\Parag\Documents\GitHub\xaml-advanced\RestaurantManager.Models\obj\Debug\pri.resfiles
+C:\Users\Parag\Documents\GitHub\xaml-advanced\RestaurantManager.Models\obj\Debug\pri.resfiles.intermediate
+C:\Users\Parag\Documents\GitHub\xaml-advanced\RestaurantManager.Models\obj\Debug\qualifiers.txt
+C:\Users\Parag\Documents\GitHub\xaml-advanced\RestaurantManager.Models\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Parag\Documents\GitHub\xaml-advanced\RestaurantManager.Models\obj\Debug\MultipleQualifiersPerDimensionFound.txt
