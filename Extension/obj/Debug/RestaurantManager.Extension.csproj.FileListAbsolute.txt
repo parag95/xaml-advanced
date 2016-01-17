@@ -1,0 +1,5 @@
+C:\Users\Parag\Documents\GitHub\xaml-advanced\Extension\bin\Debug\Extension.dll
+C:\Users\Parag\Documents\GitHub\xaml-advanced\Extension\bin\Debug\Extension.pdb
+C:\Users\Parag\Documents\GitHub\xaml-advanced\Extension\obj\Debug\RestaurantManager.Extension.csprojResolveAssemblyReference.cache
+C:\Users\Parag\Documents\GitHub\xaml-advanced\Extension\obj\Debug\Extension.dll
+C:\Users\Parag\Documents\GitHub\xaml-advanced\Extension\obj\Debug\Extension.pdb
